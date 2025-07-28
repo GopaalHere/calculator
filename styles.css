@@ -18,6 +18,7 @@ h3{
     margin: auto;
     margin-top: 50px;
     padding: 8px;
+    padding-top: 10px;
     background-color: rgb(80, 69, 69);
     box-shadow: inset 2px 2px 2px black;
     box-shadow: 7px 7px 7px black;
@@ -45,4 +46,11 @@ h3{
     cursor: pointer;
     border-radius: 100px;
     font-size: 23px;
+}
+.date{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: auto;
+    
 }
