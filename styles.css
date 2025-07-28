@@ -6,6 +6,10 @@ h1{
     background-color: rgb(74, 18, 18);
     margin: 10px auto;
     color: white;
+    font-family: cursive;
+}
+h3{
+    font-family: cursive;
 }
 .calculator{
     text-align: center;
@@ -16,6 +20,7 @@ h1{
     padding: 8px;
     background-color: rgb(80, 69, 69);
     box-shadow: inset 2px 2px 2px black;
+    box-shadow: 7px 7px 7px black;
 }
 .display{
     background-color: rgb(18, 17, 17);
