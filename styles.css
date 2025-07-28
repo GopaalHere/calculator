@@ -19,14 +19,16 @@ h3{
     margin-top: 50px;
     padding: 8px;
     padding-top: 10px;
-    background-color: rgb(80, 69, 69);
+    background-color: rgb(80, 72, 72);
     box-shadow: inset 2px 2px 2px black;
     box-shadow: 7px 7px 7px black;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 .display{
-    background-color: rgb(18, 17, 17);
+    background-color: rgb(42, 41, 41);
     border-radius: 5px;
 }
 .display input{
